@@ -1,5 +1,5 @@
 # DEMO
-[Go to website](https://rickandmortycharactapi.netlify.app/).
+[Go to website](https://rickandmort.netlify.app/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/32aa836f-9668-4507-89ca-2864d76bb736/deploy-status)](https://app.netlify.com/sites/rickandmortycharactapi/deploys)
 
