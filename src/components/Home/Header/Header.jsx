@@ -1,6 +1,7 @@
 import React from 'react';
 // Styled Components
 import styled from 'styled-components';
+import logo from './RicknMorty.png';
 
 const HeaderMain = styled.div`
   height: 150px;
@@ -17,10 +18,7 @@ const Logo = styled.img`
 function Header() {
   return (
     <HeaderMain>
-      <Logo
-        src="../../../RicknMorty.png"
-        alt="logo"
-      />
+      <Logo src={logo} alt="logo" />
     </HeaderMain>
   );
 }
