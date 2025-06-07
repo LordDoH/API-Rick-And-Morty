@@ -18,7 +18,7 @@ function Header() {
   return (
     <HeaderMain>
       <Logo
-        src="https://help.redbubble.com/hc/article_attachments/360002309526/Rick_and_Morty_-_logo__English_.png"
+        src="../../../RicknMorty.png"
         alt="logo"
       />
     </HeaderMain>
